@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pollylingo-settings-web/static/css/main.1af5a2f0.chunk.css",
+    "main.js": "/pollylingo-settings-web/static/js/main.d303d11f.chunk.js",
+    "main.js.map": "/pollylingo-settings-web/static/js/main.d303d11f.chunk.js.map",
+    "runtime~main.js": "/pollylingo-settings-web/static/js/runtime~main.9d062ad7.js",
+    "runtime~main.js.map": "/pollylingo-settings-web/static/js/runtime~main.9d062ad7.js.map",
+    "static/js/2.83d15b6a.chunk.js": "/pollylingo-settings-web/static/js/2.83d15b6a.chunk.js",
+    "static/js/2.83d15b6a.chunk.js.map": "/pollylingo-settings-web/static/js/2.83d15b6a.chunk.js.map",
+    "static/js/3.6249b01a.chunk.js": "/pollylingo-settings-web/static/js/3.6249b01a.chunk.js",
+    "static/js/3.6249b01a.chunk.js.map": "/pollylingo-settings-web/static/js/3.6249b01a.chunk.js.map",
+    "index.html": "/pollylingo-settings-web/index.html",
+    "precache-manifest.77eb2b479d6f29d94aff4db2ee864d99.js": "/pollylingo-settings-web/precache-manifest.77eb2b479d6f29d94aff4db2ee864d99.js",
+    "service-worker.js": "/pollylingo-settings-web/service-worker.js",
+    "static/css/main.1af5a2f0.chunk.css.map": "/pollylingo-settings-web/static/css/main.1af5a2f0.chunk.css.map",
+    "static/media/back_button_icon.svg": "/pollylingo-settings-web/static/media/back_button_icon.4f235805.svg"
+  }
+}
